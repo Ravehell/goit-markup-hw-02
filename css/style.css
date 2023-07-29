@@ -1,3 +1,6 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
 :root{
     --primary-font-: 'Roboto', sans-serif;
     --primary-grey-color: #2E2F42;
@@ -8,11 +11,11 @@
 
 .header-Web{
  color: var(--iris, #4D5AE5); 
-  font-size: 16px;
+  font-size: 18px;
 font-style: normal;
 font-weight: 800;
-letter-spacing: 0.54px;
-text-decoration: none;
+letter-spacing: 0.03em;
+line-height: 1.17
 }
 
 .header-Studio{
