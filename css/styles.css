@@ -1,6 +1,4 @@
-body{
-    font-family: "Roboto", sans-serif;
-}
+
 :root {
     --primary-font: 'Roboto', sans-serif;
     --primary-blue-color: #4D5AE5;
@@ -9,6 +7,12 @@ body{
     --primary-white-color: #F4F4FD
 
  }
+ 
+ body{
+    font-family: "Roboto", sans-serif;
+    color: #434455; 
+    background-color: #FFFFFF;
+}
 
 
 /* Header section */
@@ -16,6 +20,7 @@ body{
     font-family: "Raleway", sans-serif;
     list-style: none;
     text-decoration: none;
+    letter-spacing: 0.03em
 }
 
 
