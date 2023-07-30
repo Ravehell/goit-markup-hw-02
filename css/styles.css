@@ -14,10 +14,6 @@
     background-color: #FFFFFF;
 }
 
-/* All link */
-.link{
-    text-decoration: none
-}
 
 /* Header section */
 .header{
@@ -51,9 +47,6 @@
 
 }
 
-.list{
-    list-style: none;
-}
 
 .text-item{
 list-style: none;
