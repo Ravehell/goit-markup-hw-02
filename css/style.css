@@ -57,7 +57,7 @@ body{
     color: #f4f4fd;
 }
 
-.list .ul{
+.list-address{
     list-style: none;
     text-decoration: 0;
 }
@@ -88,7 +88,7 @@ body{
     font-style: normal;
 }
 
-.link .address{
+.link-address{
     text-decoration: none;
 }
 
@@ -165,7 +165,7 @@ body{
     color: var(--titel-color)
 }
 
-.section-three .list ul{
+.section-three-list ul{
     list-style: none;
 }
 
