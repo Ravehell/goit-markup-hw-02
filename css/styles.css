@@ -72,11 +72,9 @@ letter-spacing: 0.02em
 
 .text-address{
 list-style: none;
+
 }
 
-.address-item{
-    font-style: normal
-}
 
 .address{
 color: var(--titel-color);
@@ -92,11 +90,11 @@ color: var(--titel-color);
 
 .address:hover,
 .adress:focus{
-    color: var(--navyblue);
+    color: var(--gray)
 }
 
 .hero{
-    background: var(--navyblue, #2E2F42);
+    background-color: var(--gray);
 }
 
 .business{
